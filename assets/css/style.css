@@ -877,6 +877,7 @@ main {
 .filter-list { display: none; }
 
 .filter-select-box {
+  display: none !important;
   position: relative;
   margin-bottom: 25px;
 }
