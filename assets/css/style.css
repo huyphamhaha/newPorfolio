@@ -883,6 +883,7 @@ main {
 }
 
 .filter-select {
+  display: none;
   background: var(--eerie-black-2);
   color: var(--light-gray);
   display: flex;
